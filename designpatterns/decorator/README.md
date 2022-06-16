@@ -1,6 +1,4 @@
-# Padrões estruturais
-
-## Decorator
+# Decorator - Padrões estruturais
 
 ### O que é
 
